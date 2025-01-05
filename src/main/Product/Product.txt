@@ -1,0 +1,5 @@
+pen,2,20
+pencil,3,30
+eraser,2,200
+patti,2,222
+pen,2,2000
